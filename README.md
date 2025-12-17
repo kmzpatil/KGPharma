@@ -31,7 +31,7 @@ A full-stack AI-powered pharmaceutical market intelligence system built with a m
 
 - Python 3.10+
 - Node.js 18+
-- [Ollama](https://ollama.ai/) with `mistral` model (or configure OpenAI)
+- [Ollama](https://ollama.ai/) with `phi3` or `llama3` model (or configure OpenAI)
 
 ### Backend Setup
 
